@@ -12,5 +12,7 @@
 
 <br />
 
-
+<h2 align="right">تماس با من 📞</h2>
+<a href="https://instagram.com"><img width="50px" height="50px" align="left" src="https://github.com/ErfanTkh21/ErfanTkh21/blob/main/icons8-instagram-96.png?raw=true" alt="Instagream" /></a>
+<a href="https://telegram.com"><img width="50px" height="50px" align="left" src="https://github.com/ErfanTkh21/ErfanTkh21/blob/main/icons8-telegram-96.png?raw=true" /></a>
 
