@@ -1,12 +1,12 @@
 <h1>Hi There! I am Erfan Tork</h1>
 
-<h2>🧑‍💻 &nbsp; About Me</h2>
+<h2>🧑‍💻 &nbsp; About me</h2>
 
-- 🤔 &nbsp; Coach Of Head Company
-- 🎓 &nbsp; Student Of IT Subject
-- 💼 &nbsp; Working As A Front End Developer
+- 🤔 &nbsp; Coach ff head Company
+- 🎓 &nbsp; Student of IT subject
+- 💼 &nbsp; Working as a Front End developer
 - 🍃 &nbsp; Learning Type Script
-- ✍️ &nbsp; Coding And Learning Are My Hobbies :)
+- ✍️ &nbsp; Coding and learning are my hobbies :)
 
 <h2>🔧 &nbsp; Tech Stack</h2>
 
@@ -39,3 +39,5 @@
   <img src="https://img.shields.io/badge/Telegram-@erfantkh-blue?style=flat&logo=telegram" />
   </a>
 </p>
+
+<br />
