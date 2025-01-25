@@ -2,7 +2,7 @@
 
 <h2>🧑‍💻 &nbsp; About me</h2>
 
-- 🤔 &nbsp; Coach ff head Company
+- 🤔 &nbsp; Coach of head Company
 - 🎓 &nbsp; Student of IT subject
 - 💼 &nbsp; Working as a Front End developer
 - 🍃 &nbsp; Learning Type Script
