@@ -1,35 +1,41 @@
-# من کی هستم ؟ 🧑‍💻
-<h2 align="center">سلام 🖐️ من عرفان ترک هستم </h2>
+<h1>Hi There! I am Erfan Tork</h1>
+
+<h2>🧑‍💻 &nbsp; About Me</h2>
+
+- 🤔 &nbsp; Coach Of Head Company
+- 🎓 &nbsp; Student Of IT Subject
+- 💼 &nbsp; Working As A Front End Developer
+- 🍃 &nbsp; Learning Type Script
+- ✍️ &nbsp; Coding And Learning Are My Hobbies :)
+
+<h2>🔧 &nbsp; Tech Stack</h2>
+
+- 💻 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+
+<br />
+
+<h2>⚡️ &nbsp; Github Stats</h2>
+
+<a href="https://github.com/ErfanTkh21">
+  <img src="https://github-readme-stats.vercel.app/api?username=ErfanTkh21&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanTkh21" />
+</a>
+
+<h2>📞 &nbsp; Contact Me</h2>
+
 <p align="center">
-برنامه نویس فرانت اند 💻 دانشجوی برنامه نویسی و عاشق دنیای صفر و یک ❤️
+  <a href="">
+  <img src="https://img.shields.io/badge/Website-www.Erfantkh.ir-blue?style=flat&logo=google-chrome" />
+  </a>
+  <a href="">
+  <img src="https://img.shields.io/badge/Instagram-@erfantkh-red?style=flat&logo=instagram" />
+  </a>
+  <a href="">
+  <img src="https://img.shields.io/badge/Telegram-@erfantkh-blue?style=flat&logo=telegram" />
+  </a>
 </p>
-
-<br />
-
-<h2 align="center">ابزارهایی که استفاده میکنم 🦾</h2> 
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-<br />
-
-<h2 align="right">تماس با من 📞</h2>
-<a href="https://instagram.com"><img width="50px" height="50px" align="left" src="https://github.com/ErfanTkh21/ErfanTkh21/blob/main/icons8-instagram-96.png?raw=true" alt="Instagream" /></a>
-<a href="https://telegram.com"><img width="50px" height="50px" align="left" src="https://github.com/ErfanTkh21/ErfanTkh21/blob/main/icons8-telegram-96.png?raw=true" /></a>
-
-<br />
-
-<h2 align="right">الان به چه کارهایی مشغول هستم 🧑‍💻</h2>
-
-<h3 align="right">🌟 توسعه فرانت اند سایت ...</h3>
-<h3 align="right">🌟 آموزش به کارآموزهای کمپانی...</h3>
-<h3 align="right">🌟 تولید محتوا</h3>
-
-<br />
-
-<h2 align="right">الان دارم با اینا کار میکنم 🧑‍💻</h2>
-
-<h3 align="left">💻 Java Script | 80% </h3><img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
-
-<br />
-
-<h3 align="left">🖥️ Raect JS | 50% </h3><img width="250px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
