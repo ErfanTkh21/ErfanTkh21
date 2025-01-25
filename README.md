@@ -16,3 +16,20 @@
 <a href="https://instagram.com"><img width="50px" height="50px" align="left" src="https://github.com/ErfanTkh21/ErfanTkh21/blob/main/icons8-instagram-96.png?raw=true" alt="Instagream" /></a>
 <a href="https://telegram.com"><img width="50px" height="50px" align="left" src="https://github.com/ErfanTkh21/ErfanTkh21/blob/main/icons8-telegram-96.png?raw=true" /></a>
 
+<br />
+
+<h2 align="right">الان به چه کارهایی مشغول هستم 🧑‍💻</h2>
+
+<h3 align="right">🌟 توسعه فرانت اند سایت ...</h3>
+<h3 align="right">🌟 آموزش به کارآموزهای کمپانی...</h3>
+<h3 align="right">🌟 تولید محتوا</h3>
+
+<br />
+
+<h2 align="right">الان دارم با اینا کار میکنم 🧑‍💻</h2>
+
+<h3 align="left">💻 Java Script | 80% </h3><img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+
+<br />
+
+<h3 align="left">🖥️ Raect JS | 50% </h3><img width="250px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
