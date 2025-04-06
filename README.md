@@ -12,11 +12,9 @@ const thai = {
     Tailwind,
     Styled - Components,
   ],
-  architecture: ["Microservices", "event-driven", "design system pattern"],
+  architecture: ["design system pattern"],
   techCommunities: {
-    coorganizer: "AfroPython",
-    speaker: "Latinity",
-    mentor: "EducaTRANSforma",
+    mentor: "Udemi",
   },
   challenge:
     "I am doing the #100DaysOfCode challenge focused on react and typescript",
