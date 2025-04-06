@@ -14,7 +14,7 @@ const thai = {
   ],
   architecture: ["design system pattern"],
   techCommunities: {
-    mentor: "Udemi",
+    mentor: "Udemy",
   },
   challenge:
     "I am doing the #100DaysOfCode challenge focused on react and typescript",
