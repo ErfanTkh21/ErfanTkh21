@@ -8,14 +8,9 @@ const thai = {
   langs: [Javascript, Typescript, HTML, CSS],
   tools: [
     React,
-    Redux,
-    Node,
     Next,
     Tailwind,
-    Storybook,
     Styled - Components,
-    Jest,
-    Docker,
   ],
   architecture: ["Microservices", "event-driven", "design system pattern"],
   techCommunities: {
