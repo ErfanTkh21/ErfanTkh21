@@ -12,7 +12,7 @@ const thai = {
     Tailwind,
     Styled - Components,
   ],
-  architecture: ["design system pattern"],
+  architecture: ["front-end"],
   techCommunities: {
     mentor: "Udemy",
   },
